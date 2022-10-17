@@ -160,3 +160,7 @@ body {
     background-attachment: fixed;
 
 }
+body{
+    margin: 0;
+    height: 1000px;
+}
