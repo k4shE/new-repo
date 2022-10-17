@@ -1,0 +1,162 @@
+
+.card {
+    width: 100%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.card-head {
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.card-description {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-body {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.card-head {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    padding: 25px;
+
+    padding: 25px 25px 25px 25px;
+
+    padding: 25px 25px;
+}
+
+.card-head img {
+    border-radius: 50%;
+
+    border: 10px solid #fff;
+
+    border-bottom: 10px solid #fff;
+    border-right: 10px solid #fff;
+    border-top: 10px solid #fff;
+    border-left: 10px solid #fff;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: #fff;
+
+}
+.card-body{
+    padding: 10px;
+}
+
+.card-body h5 {
+    text-align: center;
+    font-size: 24px;
+}
+
+.card-body p {
+    text-align: center;
+    color: gray;
+}
+
+.card-body .card-body-button {
+    width: 100px;
+    text-align: center;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+
+.card-body .card-body-button a {
+    color: white;
+    text-decoration: none;
+}
+
+.card-body .card-body-button:hover {
+    background-color: darkorange;
+}
+
+header{
+    background-color: #2f3c68;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header ul li a{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header ul li a:hover{
+    color: #ccc;
+}
+main{
+    min-height: 400px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #2f3c68;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    min-height: 700px;
+    background-color: rgba(0,0,0,.5);
+    border-radius: 20px;
+    padding: 30px;
+}
+
+section h2{
+    color: #fff;
+}
+
+section article{
+    display: inline-block;
+    width: 300px;
+    margin-right: 20px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(https://wallpapercave.com/wp/wp4177433.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
